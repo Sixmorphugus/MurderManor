@@ -1,4 +1,4 @@
 # Python Minesweeper
 A tkinter minesweeper game.
 
-*Requires tkinter.*
+_Requires tkinter._
